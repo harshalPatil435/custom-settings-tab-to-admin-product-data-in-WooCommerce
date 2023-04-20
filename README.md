@@ -1,0 +1,1 @@
+# custom-settings-tab-to-admin-product-data-in-WooCommerce
